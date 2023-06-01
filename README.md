@@ -3,6 +3,7 @@
   <h1 align="center">
     Oi Tudo bem? Eu sou o Nycols Carvalho 😃️
   </h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NycolasBC&color=blue" alt="Profile views" /> </p>
   
   <p align="center">
     Sou um Desenvolvedor iniciante que gosta de Front End e estou cursando o curso de sistema de informação na <a href="https://novo.uniaraxa.edu.br">Uniaraxa</a> e trabalho com linguagens como C#, ReactJS e estou aprendendo NodeJS 
@@ -34,11 +35,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NycolasBC/NycolasBC/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
