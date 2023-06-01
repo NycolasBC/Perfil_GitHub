@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NycolasBC&color=blue" alt="Profile views" /> </p>
   
   <p align="center">
-    Sou um Desenvolvedor iniciante que gosta de Front End e estou cursando o curso de sistema de informação na <a href="https://novo.uniaraxa.edu.br">Uniaraxa</a> e trabalho com linguagens como C#, ReactJS e estou aprendendo NodeJS 
+    Sou um Desenvolvedor iniciante que gosta de Front End. Atualmente, estou cursando o curso de Sistemas de Informação na <a href="https://novo.uniaraxa.edu.br">Uniaraxa</a> e trabalho com linguagens como C#, ReactJS. Além disso, estou me dedicando ao aprendizado de NodeJS. 
   </p>
   
 </div>
