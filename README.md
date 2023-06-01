@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o Nycols Carvalho 😃️
+    Oi Tudo bem? Eu sou o Nycolas Carvalho 😃️
   </h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=NycolasBC&color=blue" alt="Profile views" /> </p>
   
